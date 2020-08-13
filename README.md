@@ -1,2 +1,2 @@
 # my-first-repo
-this is my first repo for DS
+this is my awesome repo
